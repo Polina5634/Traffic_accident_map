@@ -19,7 +19,7 @@
 ### Суммарное количество ДТП по дням недели (янв 2015 - дек 2023)
 <img width="1443" height="506" alt="Unknown" src="https://github.com/user-attachments/assets/69e23977-28da-419d-9264-de0db1a3b1bb" />
 
-### Суммарное количество ДТП по календарным месяцам (янв 2015 - дек 2023)
+### Суммарное количество ДТП по календарным месяцам (янв 2015 - авг 2024)
 <img width="1436" height="503" alt="Unknown-2" src="https://github.com/user-attachments/assets/83fc6b8a-4f78-45b2-8b77-a77cc54eb12d" />
 
 ### Количество ДТП по годам (янв 2015 - дек 2023)
