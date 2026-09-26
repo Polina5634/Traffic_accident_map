@@ -14,16 +14,16 @@
 
 ## Динамика ДТП по временным промежуткам в Кировской области
 ### Количество ДТП по месяцам с выделением локальных пиков и среднего значения (янв 2015 - авг 2024)
-<img width="1932" height="574" alt="Первый график" src="https://github.com/user-attachments/assets/1ac62a37-86dc-480c-a779-cfa6ed0d5186" />
+<img width="1932" height="574" alt="Unknown" src="https://github.com/user-attachments/assets/b99ef0f5-dc29-4b85-91d1-6e953e2e5e7b" />
 
 ### Суммарное количество ДТП по дням недели (янв 2015 - дек 2023)
-<img width="1443" height="506" alt="Unknown" src="https://github.com/user-attachments/assets/69e23977-28da-419d-9264-de0db1a3b1bb" />
+<img width="1050" height="429" alt="Unknown-2" src="https://github.com/user-attachments/assets/996c0042-4111-448f-b48e-9992dbe95ab7" />
 
 ### Суммарное количество ДТП по календарным месяцам (янв 2015 - авг 2024)
-<img width="1436" height="503" alt="Unknown-2" src="https://github.com/user-attachments/assets/83fc6b8a-4f78-45b2-8b77-a77cc54eb12d" />
+<img width="1046" height="503" alt="Unknown-3" src="https://github.com/user-attachments/assets/2f109e7b-0131-4a20-872b-1b2e7266ba80" />
 
 ### Количество ДТП по годам (янв 2015 - дек 2023)
-<img width="1440" height="474" alt="Unknown-3" src="https://github.com/user-attachments/assets/db4a0d83-562b-4bcf-8013-e15376e755f9" />
+<img width="1048" height="474" alt="Unknown-4" src="https://github.com/user-attachments/assets/6c7e7d02-97b2-4719-8cb5-7faec187a221" />
 
 ## Количество ДТП с участием водителей с разным стажем в Кировской области (янв 2015 - авг 2024)
-<img width="1858" height="564" alt="Unknown-4" src="https://github.com/user-attachments/assets/434f9b69-61cc-4d86-8658-84d6da6451bc" />
+<img width="1858" height="564" alt="Unknown-5" src="https://github.com/user-attachments/assets/b29a9d58-772b-4304-8149-27173215df55" />
