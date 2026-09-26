@@ -37,3 +37,10 @@
 <img width="1858" height="564" alt="Unknown-5" src="https://github.com/user-attachments/assets/b29a9d58-772b-4304-8149-27173215df55" />
 
 **Вывод:** С увеличением стажа количество ДТП с участием водителей в целом уменьшается; максимум приходится на стаж 1 год. Однако без данных о численности водителей и пробеге в каждой группе нельзя сравнивать их риск попадания в ДТП.
+
+<img width="1932" height="574" alt="Unknown" src="https://github.com/user-attachments/assets/a4376485-9c66-44cd-a49d-535b7e62bd2c" />
+<img width="1050" height="424" alt="Unknown-2" src="https://github.com/user-attachments/assets/d3f1748a-734c-455e-8f5b-cea6432a14fc" />
+<img width="1045" height="498" alt="Unknown-3" src="https://github.com/user-attachments/assets/dc926af9-923f-4d2c-8fd5-4d74215f1502" />
+<img width="1048" height="469" alt="Unknown-4" src="https://github.com/user-attachments/assets/6ec719c2-88d7-4063-b868-032dd3c59110" />
+<img width="1867" height="564" alt="Unknown-5" src="https://github.com/user-attachments/assets/393ececd-8093-4cc1-af7e-03d1b24e8271" />
+
