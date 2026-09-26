@@ -16,7 +16,7 @@ Oценить качество собранных данных, выявив в�
 ##
 ## Динамика ДТП по временным промежуткам в Кировской области
 ### График с обозначением пиков и среднего количества ДТП (янв 2015 - авг 2024)
-<img width="1932" height="569" alt="image"  " />
+<img width="1932" height="574" alt="Первый график" src="https://github.com/user-attachments/assets/1ac62a37-86dc-480c-a779-cfa6ed0d5186" />
 
 ### Аккумулированные данные по дням недели (янв 2015 - дек 2023)
 <img width="1443" height="501" alt="image" src="https://github.com/user-attachments/assets/fb23604c-8c9b-47fc-9ee7-b627c465d988" />
