@@ -19,13 +19,13 @@ Oценить качество собранных данных, выявив в�
 <img width="1932" height="574" alt="Первый график" src="https://github.com/user-attachments/assets/1ac62a37-86dc-480c-a779-cfa6ed0d5186" />
 
 ### Аккумулированные данные по дням недели (янв 2015 - дек 2023)
-<img width="1443" height="501" alt="image" src="https://github.com/user-attachments/assets/fb23604c-8c9b-47fc-9ee7-b627c465d988" />
+<img width="1443" height="506" alt="Unknown" src="https://github.com/user-attachments/assets/69e23977-28da-419d-9264-de0db1a3b1bb" />
 
 ### Аккумулированные данные по месяцам (янв 2015 - дек 2023)
-<img width="1436" height="498" alt="image" src="https://github.com/user-attachments/assets/d0d9f940-43ea-4ce0-9c79-180cf42d4c1d" />
+<img width="1436" height="503" alt="Unknown-2" src="https://github.com/user-attachments/assets/83fc6b8a-4f78-45b2-8b77-a77cc54eb12d" />
 
 ### Аккумулированные данные по годам (янв 2015 - дек 2023)
-<img width="1440" height="469" alt="image" src="https://github.com/user-attachments/assets/9fc0ac53-bf92-4188-8a51-73c86a7c8b34" />
+<img width="1440" height="474" alt="Unknown-3" src="https://github.com/user-attachments/assets/db4a0d83-562b-4bcf-8013-e15376e755f9" />
 
 ## Сравнение количества ДТП между группами водителей с разным стажем в Кировской области (янв 2015 - авг 2024)
-<img width="1858" height="564" alt="image" src="https://github.com/user-attachments/assets/b12fc7b4-d447-44ae-9c7b-628965a33737" />
+<img width="1858" height="564" alt="Unknown-4" src="https://github.com/user-attachments/assets/434f9b69-61cc-4d86-8658-84d6da6451bc" />
